@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SketchupApplication", "SketchupApplication\SketchupApplication.vcxproj", "{0E92D4A3-2954-432F-B966-E8A1DDBCBD42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E92D4A3-2954-432F-B966-E8A1DDBCBD42}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0E92D4A3-2954-432F-B966-E8A1DDBCBD42}.Debug|Win32.Build.0 = Debug|Win32
+		{0E92D4A3-2954-432F-B966-E8A1DDBCBD42}.Release|Win32.ActiveCfg = Release|Win32
+		{0E92D4A3-2954-432F-B966-E8A1DDBCBD42}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
